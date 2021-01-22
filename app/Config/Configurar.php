@@ -1,0 +1,7 @@
+<?php
+
+//Configuracion de acceso a la base de datos
+define('DB_HOST', 'localhost');
+define('DB_USUARIO', 'root');
+define('DB_PASSWORD', '');
+define('DB_NOMBRE', 'sild');
